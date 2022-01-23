@@ -1,0 +1,4 @@
+displayName = Abslb's Hook of Discord
+author = Abslb
+version = 0.2
+homepage = https://github.com/Abslb36/AbslbEasy

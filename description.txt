@@ -1,0 +1,69 @@
+Abslb's Hook of Discord is Small mod that introduces many contents of odds:
+Summoner critical chance
+A summoner crits flask
+Discord hook
+Discord mount
+An accessory that locks defence stats
+An accessory that enhances potion healing
+An accessory that integrates above two and charm of myths
+An accessory that integrates the above integrated accessory, ice turtle shell, cross neckalce, and ankh shield
+Auto money-save item
+Auto-swing item
+Omnisence effects item
+Grab range increasing item
+A vendor that reduces grinding
+Woods grab-bag
+and Vanilla recipe for:
+Compass, Depth Meter, Radar, Lifeform Analyzer, Tally Counter, Metal Detector, Stopwatch, DPS Meter, Weather Radio, Sextant, Fisherman Pocket Guide, Magic Mirror,
+Ice Skates, Hermes Boots, Water Walking Boots, Anklet of Wing, Aglet, Lava Charm,
+Cloud in a Bottle, Blizzard in a Bottle, Sandstorm in a Bottle, Lucky Horseshoe, Shiny Red Balloon, Climbing Claws, Shoe Spikes,
+Band of Regenration, Band of Starpower, Jungle Rose, Nature's Gift, Obsidian Rose, Celestral Magnet, Magic Quiver,
+Frog Leg, Jellyfish Necklace, Flipper, Diving Helmet, Sharktooth Necklace, , Frozen Turtle Shell, Paladin's Shield, Magma Stone, Rifle Scope, Tabi, Black Belt,
+Adhesive Bandage, Armor Polish, Bezoar, Blindfold, Fast Clock, Megaphone, Nazar, Trifold Map, Vitamins,
+Feral Claw, Guide to Plant Fiber Cordage, Staff of Regrowth, Flower Boots, Cobalt Shield, Murasama, Shadow Key,
+Living Wood Loom, Sky Mill, Honey Dispenser, Bone Welder, Ice Machine, Hellforge, Alchemy Table,
+Leather, Book, Tattered Cloth, Slime Staff, Enchanted Sword, Water Bolt, Boomstick,
+Rod of Discord and Binoculars.
+
+《Abslb的裂位钩》是一个小型模组，加入了一些乱七八糟的东西：
+召唤师暴击
+召唤师暴击附魔瓶
+裂位钩爪
+裂位坐骑
+锁定防御力的饰品
+增强药水回复的饰品
+集合以上两个饰品以及神话护身符的饰品
+集合上面一个饰品以及冰龟壳、十字项链、十字章护盾的饰品
+自动存钱道具
+自动挥舞道具
+全知效果道具
+增加拾取距离道具
+减少刷刷刷的小贩
+木材摸彩袋
+以及制作以下物品的配方：
+罗盘、深度计、雷达、生命体分析仪、杀怪计数器、金属探测器、停表、DPS计、天气广播、六分仪、钓鱼人手册、魔镜，
+溜冰鞋、赫摩斯鞋、水上步行鞋、疾风脚镯、金属带扣、岩浆护身符，
+瓶中云、瓶中暴雪、瓶中沙暴、幸运马掌、闪耀红气球、攀爬爪、鞋钉，
+再生手环、星力手环、丛林玫瑰、自然之礼、黑曜石玫瑰、天界磁铁、魔法箭袋，
+蛙腿、水母项链、脚蹼、潜水头盔、鲨牙项链、冰龟壳、圣骑士盾、熔岩石、狙击镜、分指厚底袜、黑带，
+创可贴、盔甲抛光、牛黄、眼遮、快钟、扩音器、邪眼、三折地图、维生素，
+猛爪手套、植物纤维采集入门、再生法杖、花靴、钴盾、村正大刀、暗影钥匙，
+生命木织机、天磨、分蜜机、鞣骨机、分冰机、地狱熔炉、炼金桌，
+皮革、书、破布片，史莱姆法杖、附魔剑、水弹、三发猎枪，
+裂位法杖以及望远镜。
+
+This mod supports English and Chinese. (Why do I need to state this in English?)
+Please Look Forward to Even More Contents! Thank you!
+同时，这个mod支持中英文。
+请期待未来更多内容加入！感谢您的游玩……？
+
+Changelog 更新日志：
+v0.1
+Initial Commit.
+初始发布。
+v0.1.1
+Linked to Github so it can display an icon.
+链接了github，于是它能显示图标了。
+v0.2
+Fixed the bug in mechanisms of defense locket and its upgrades; introduced item "Call of Cthulhu".
+修复了防御力锁盒和其升级品的机制中的bug；引入了新物品，“《克苏鲁的呼唤》”。
