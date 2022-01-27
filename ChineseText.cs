@@ -33,5 +33,11 @@ namespace AbslbEasy
         public static string discordKeyTip = "试图骑乘时传送\n也造成5秒混沌状态\n混沌状态下不可用";
         public static string coc = "《克苏鲁的呼唤》";
         public static string cocTip = "收藏此道具时明显增加拾取物品范围、提供许多视觉效果、增加挖掘速度\n如果使用它则是把拾取距离增加到很离谱的程度\n“它不能召唤月球领主！”";
+        public static string chimera = "奇美拉之靴";
+        public static string chimeraTip = "装备者可以跑得飞快\n增加冰面机动性\n蛙腿效果\n" +
+            "免疫掉落伤害\n火箭靴效果\n“融合”";
+        public static string gravity = "宇宙潜水装置";
+        public static string gravityTip = "允许游泳、水下呼吸和液面步行\n提供水下发光、冰面机动、岩浆免疫\n在水中自由移动\n" +
+                "\n免疫各种冰火效果\n“重力服”";
     }
 }
